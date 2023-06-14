@@ -1,4 +1,4 @@
-<h1 align="center"> Repositório de Aplicativos Desenvolvidos por Elcilene Aragão </h1>
+<h1 align="center"> Repositório de Aplicativos Desenvolvido por Elcilene Aragão </h1>
 
 Bem-vindo ao meu repositório de aplicativos! Aqui, compartilho os projetos que desenvolvi com entusiasmo e dedicação. Estes aplicativos foram criados utilizando Kodular, uma plataforma intuitiva de desenvolvimento de aplicativos para dispositivos móveis.
 
